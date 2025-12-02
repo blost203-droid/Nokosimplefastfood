@@ -1,6 +1,6 @@
 # 🍽️ Noko Simple Fast Food Website
 
-This repository contains the official website for **Noko Simple Fast Food** — a modern fast-food ordering and menu showcase website built with **HTML**, **TailwindCSS**, and **Vanilla JavaScript**.
+This repository contains the official website for **Noko Simple Fast Food** — a modern fast-food ordering and menu showcase website built with **HTML**
 
 The website includes:
 - A beautiful hero section  
